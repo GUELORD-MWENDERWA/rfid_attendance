@@ -63,4 +63,4 @@ The firmware expects a PHP endpoint that accepts the card UID and device token a
 
 ## License
 
-No license has been specified yet. Contact the author before reusing this code.
+MIT. See [LICENSE](LICENSE).
